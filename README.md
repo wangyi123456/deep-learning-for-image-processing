@@ -11,7 +11,7 @@
 ## 教程目录，点击跳转相应视频（后期会根据学习内容增加）
 
 * 图像分类
-  * LeNet（已完成）
+  * LeNet
     * [Pytorch官方demo(Lenet)](https://www.bilibili.com/video/BV187411T7Ye)
     * [Tensorflow2官方demo](https://www.bilibili.com/video/BV1n7411T7o6)
 
